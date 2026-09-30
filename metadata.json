@@ -1,0 +1,10 @@
+{
+  "name": "Aegis — AIML Thunderstorm & Lightning Nowcasting",
+  "description": "Multi-sensor atmospheric observation and AI-driven convective nowcasting workstation fusing live weather radar, infrared satellite, lightning telemetry, and NWP model soundings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
